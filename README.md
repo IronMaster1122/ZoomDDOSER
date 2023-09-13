@@ -4,7 +4,7 @@ ZoomDDOSER | Данный инструмент нужен только для э
 
 ## Установка и запуск (Linux):
 
-`$ git clone ".."`
+`$ git clone "https://github.com/IronMaster1122/ZoomDDOSER.git"`
 
 `$ cd (путь к ZoomDDOSER)`
 
